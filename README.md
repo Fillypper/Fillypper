@@ -1,0 +1,4 @@
+- Olá, me chamo Luiz Fillypper
+- Sou interessado em ciência de dados e machine learning
+- Estou nesse momento aprendendo (Python, SQL, ETH, PBI)
+- Meu linkedin (https://www.linkedin.com/in/luiz-fillypper-bonhote-de-oliveira-323b2415b/)
