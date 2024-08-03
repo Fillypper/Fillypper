@@ -1,6 +1,11 @@
-## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fillypper&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+## Fillypper 👋
 
+### Connect With Me
+[![Static Badge](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=27e8a7)](https://www.linkedin.com/in/luiz-fillypper-bonhote-de-oliveira-323b2415b/)
+
+
+### GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fillypper&show_icons=true&theme=blueberry)
 <!--
 **Fillypper/Fillypper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
